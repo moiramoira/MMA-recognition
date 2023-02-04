@@ -1,0 +1,21 @@
+{
+    "fighter1": {
+        "RECORD": "1-3-0",
+        "AGE": "22",
+        "HEIGHT": "175",
+        "WEIGHT": "61",
+        "country": "BRAZIL",
+        "name": "NANDERSON SANTOS",
+        "color": "red"
+    },
+    "fighter2": {
+        "RECORD": "2-0-0",
+        "AGE": "19",
+        "HEIGHT": "174",
+        "WEIGHT": "61",
+        "country": "BRAZIL",
+        "name": "KAYQUE DE PAULA",
+        "color": "blue"
+    },
+    "round": 0
+}
